@@ -22,6 +22,24 @@ This action plan outlines the strategy to analyze the Indian EV/Hybrid market, u
 - [x] Start the analysis according to given Primary and Secondary questions. Tools used to address the questions include Excel, SQL and Power BI.
 - [x] Create a dashboard that clearly presents your metrics and analysis. Ensure it is intuitive and easy to interpret. Incorporate additional data from research to provide deeper insights.
 
+## Data Model:
+<p align="center">
+  <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/model.png" height="600">
+</p>
+
+## Key Metrics:
+- [x] Fiscal Year: The fiscal year is a one-year period used for financial reporting and budgeting, starting on April 1st and ending on March 31st of the following year in India.
+    
+- [x] Penetration Rate: This metric represents the percentage of total vehicles that are electric within a specific region or category. This indicates the adoption level of electric vehicles.
+  - It is calculated as: Penetration Rate =  (Electric Vehicles Sold / Total Vehicles Sold) * 100
+        
+- [x] Compound Annual Growth Rate (CAGR): CAGR measures the mean annual growth rate over a specified period longer than one year.
+  - It is calculated as: CAGR = [(Ending Value / Beginning Value) ** 1/n] -1
+
+## Presentation & Dashboard:
+- [x] Presentation Report: [Canva](https://anisarsad.my.canva.site/sales-insight-sql)
+- [x] Dashboard: [Power BI](https://shorturl.at/GvdzT)
+
 ## Primary Analysis:
 1. Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region. <p align="left"> <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/1.png" height="100"> </p>
 2. What is the percentage of unique product increase in 2021 vs. 2020? <p align="left"> <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/2..png" height="400"> </p>
@@ -35,16 +53,6 @@ This action plan outlines the strategy to analyze the Indian EV/Hybrid market, u
 10. Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? <p align="left"> <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/10.png" height="450"> </p>
 
 ## Secondary Analysis:
-
-
-## Data Model:
-<p align="center">
-  <img src="https://github.com/anisarsad/sales-insight-adhoc-request/blob/main/model.png" height="600">
-</p>
-
-## Presentation & Dashboard:
-- [x] Presentation Report: [Canva](https://anisarsad.my.canva.site/sales-insight-sql)
-- [x] Dashboard: [Power BI](https://shorturl.at/GvdzT)  
       
 ## Technical Knowledge and Tools:
 - [x] Data Cleansing and Preparation: Expertise in cleaning and transforming raw data into a usable format for analysis, ensuring data accuracy and reliability.
