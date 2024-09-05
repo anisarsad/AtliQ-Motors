@@ -67,13 +67,10 @@ Which states in India provided most subsidies?
 - [x] Advanced SQL Functions: Proficiency in using advanced SQL functions (e.g., JOINs, subqueries, window functions) to extract, manipulate, and analyze data efficiently.
 - [x] Data Modeling: Skilled in designing and implementing data models that optimize performance and support complex analytical queries.
 - [x] Dashboard Development: Ability to create dynamic and interactive dashboards in Power BI to visualize trends, patterns, and insights.
-- [x] Data Integration: Experience in integrating data from multiple sources, such as databases, APIs, and flat files, to provide a comprehensive analysis.
 - [x] Automation of Data Processes: Knowledge in automating repetitive data extraction, transformation, and loading processes using scripts or ETL tools to improve efficiency.
-- [x] Performance Optimization: Understanding of how to optimize SQL queries and Power BI reports for speed and scalability.
 - [x] Statistical Analysis: Basic knowledge of statistical methods and their application in data analysis for deeper insights and predictive modeling.
 
 ## Business Domain Knowledge:
-- [x] Business Domain Knowledge:
 - [x] Automotive Industry Insight: Understanding of trends, challenges, and opportunities in the electric vehicle (EV) and hybrid markets.
 - [x] Market Entry Strategies: Knowledge of market entry approaches, including competitive analysis, customer segmentation, and strategic planning.
 - [x] Consumer Behavior Analysis: Ability to analyze consumer patterns to identify target segments and develop marketing strategies.
